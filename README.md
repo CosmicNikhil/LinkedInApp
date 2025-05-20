@@ -55,9 +55,16 @@ A cloud-native, scalable backend system inspired by social networking platforms.
 - Centralized logging using **ELK Stack**
 - Circuit breaker status and failure tracking using **Resilience4j dashboard**
 
-## 📷 System Design Diagram
+## 🧾 Documentation
 
-![Architecture Diagram](https://drive.google.com/uc?export=view&id=1klXDFUatR0ih8YKrs0E-l2uSfsFvdDFt)
+- 📌 **System Architecture Diagram**  
+  ![Architecture Diagram](https://drive.google.com/uc?export=view&id=1klXDFUatR0ih8YKrs0E-l2uSfsFvdDFt)
+
+- 🗂️ **Database Design**  
+  [View Database Schema](https://drive.google.com/file/d/1TYp95nD-pz3kpDfYYNVnuxFuq8RJ8WSV/view?usp=sharing)
+
+- 📮 **API Documentation**  
+  [View REST API List](https://drive.google.com/file/d/1u1xjOAK_r_-gg40eh5_wqvykSKBhfkW5/view?usp=sharing)
 
 ## 🛠️ Future Enhancements
 
