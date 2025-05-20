@@ -57,7 +57,15 @@ A cloud-native, scalable backend system inspired by social networking platforms.
 
 ## 📷 System Design Diagram
 
-![Architecture Diagram]([architecture.png](https://drive.google.com/file/d/1klXDFUatR0ih8YKrs0E-l2uSfsFvdDFt/view?usp=sharing))  
+![Architecture Diagram](https://drive.google.com/uc?export=view&id=1klXDFUatR0ih8YKrs0E-l2uSfsFvdDFt)
 
+## 🛠️ Future Enhancements
 
+- JWT-based Authentication & Authorization  
+- CI/CD pipeline with GitHub Actions  
+- Helm chart packaging for production deployments  
 
+## 👨‍💻 Author
+
+**Hanumansetti Nikhil**  
+Built as a personal project to learn cloud-native architecture, distributed tracing, and Kubernetes deployment.
